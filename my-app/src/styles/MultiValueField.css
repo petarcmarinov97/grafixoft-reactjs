@@ -1,0 +1,24 @@
+div.multi_value_field{
+    display: flex;
+    flex-direction: column;
+    max-width: 150px;
+    text-align: center;
+    margin-left: 50px;
+    border: 1px solid black;
+}
+
+input.input_field {
+    text-align: center;
+    height: 30px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    border:none;
+    border-bottom: 1px solid #ddd;
+  }
+  
+a{
+    text-decoration: none;
+    color: black;
+    padding-bottom: 5px;
+}
